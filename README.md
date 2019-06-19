@@ -1,1 +1,1 @@
-Kikunti's first code
+Kikunti's first git project
